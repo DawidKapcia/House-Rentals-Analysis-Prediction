@@ -1,6 +1,6 @@
 # House Rentals Analysis & Prediction
 
-This project is part of the Data Scientist Professional Certificate, executed by DataCamp. The main issues are described below. My task was to prepare a technical report and present the most important conclusions to non-technical audience.
+This project is a part of the Data Scientist Professional Certificate, executed by DataCamp. The main issues are described below. My task was to prepare a technical report and present the most important conclusions to non-technical audience.
 
 ## Description
 
