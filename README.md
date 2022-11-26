@@ -1,4 +1,4 @@
-# House Rentals Analysis & Prediction
+# House Rentals Analysis & Regression Model
 
 This project is a part of the Data Scientist Professional Certificate, executed by DataCamp. The main issues are described below. My task was to prepare a technical report and present the most important conclusions to non-technical audience.
 
